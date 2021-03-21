@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning cs in uni
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm very gay
+- I'm from France
+- Currently IT student
+- Pronouns: She/her
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/SRAZKVT.svg?style=social&label=Follow%20%40SRAZKVT)](https://twitter.com/SRAZKVT)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SRAZKVT?color=1DA1F2&label=%40SRAZKVT&logo=Twitter&style=for-the-badge)](https://twitter.com/SRAZKVT)
