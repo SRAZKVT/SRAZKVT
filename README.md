@@ -5,8 +5,8 @@
 - Open-source <3
 - Pronouns: They/she
 
-![](https://github.com/SRAZKVT/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/SRAZKVT/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/SRAZKVT/github-stats/blob/master/generated/overview.svg) <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRAZKVT&hide=python&layout=compact">
 
 # Languages :
 ![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)
