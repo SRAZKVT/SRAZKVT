@@ -5,10 +5,9 @@
 - Open-source <3
 - Pronouns: They/she
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRAZKVT&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRAZKVT&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+![](https://github.com/SRAZKVT/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/SRAZKVT/github-stats/blob/master/generated/languages.svg)
+
 # Languages :
 ![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
