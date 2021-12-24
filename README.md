@@ -21,4 +21,5 @@
 <a href="https://www.jetbrains.com/idea/">![Intelij IDEA](https://img.shields.io/badge/Intelij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)</a>
 <a href="https://code.visualstudio.com/">![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)</a>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Viktor40.Viktor40)
+# Others :
+<a href="https://voidlinux.org">![](https://img.shields.io/badge/OS-voidlinux-informational?style=flat&logo=linux&logoColor=white&color=5e81ac)</a>
