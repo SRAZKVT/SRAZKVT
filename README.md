@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm from France
-- Currently styding CS in IUT Montpellier - Sète
+- Currently studying CS in IUT Montpellier - Sète
 - Open-source <3
 - Pronouns: They/them
 
