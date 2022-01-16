@@ -22,4 +22,5 @@
 <a href="https://code.visualstudio.com/">![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)</a>
 
 # Others :
-<a href="https://voidlinux.org">![](https://img.shields.io/badge/OS-voidlinux-informational?style=flat&logo=linux&logoColor=white&color=5e81ac)</a>
+<a href="https://voidlinux.org">![](https://img.shields.io/badge/VoidLinux-295340?style=for-the-badge&logo=linux&logoColor=white)</a>
+
