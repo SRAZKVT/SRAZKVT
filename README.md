@@ -20,6 +20,7 @@
 <a href="https://github.com/">![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)</a>
 <a href="https://www.jetbrains.com/idea/">![Intelij IDEA](https://img.shields.io/badge/Intelij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)</a>
 <a href="https://code.visualstudio.com/">![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)</a>
+<a href="https://kakoune.org/">![Kakoune](https://img.shields.io/badge/Kakoune-6f8042?style=for-the-badge&logo=kakoune&logoColor=white)</a>
 
 # Others :
 <a href="https://voidlinux.org">![](https://img.shields.io/badge/VoidLinux-295340?style=for-the-badge&logo=linux&logoColor=white)</a>
