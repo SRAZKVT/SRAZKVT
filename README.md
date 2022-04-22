@@ -23,5 +23,5 @@
 <a href="https://kakoune.org/">![Kakoune](https://img.shields.io/badge/Kakoune-6f8042?style=for-the-badge&logo=kakoune&logoColor=white)</a>
 
 # Others :
-<a href="https://voidlinux.org">![](https://img.shields.io/badge/VoidLinux-295340?style=for-the-badge&logo=linux&logoColor=white)</a>
+<a href="https://voidlinux.org">![](https://img.shields.io/badge/Void_Linux-295340?style=for-the-badge&logo=linux&logoColor=white)</a>
 
