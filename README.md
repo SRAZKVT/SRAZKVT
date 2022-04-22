@@ -3,7 +3,7 @@
 - I'm from France
 - Currently studying CS in IUT Montpellier - Sète
 - Open-source <3
-- Pronouns: They/them
+- Pronouns: They/She/Any
 
 <div align="center">
   
