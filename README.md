@@ -11,9 +11,15 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRAZKVT&hide=python,latte&layout=compact"></a>
 </div>
 
-# Languages :
+# Languages I use :
 <a href="https://openjdk.java.net/">![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="https://go.dev/">![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)</a>
+
+# Languages I am learning:
+<a href="https://www.php.net/">![PHP](https://img.shields.io/badge/PHP-4f5d95?style=for-the-badge&logo=php&logoColor=white)</a>
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+<a href="https://nasm.us">![Assembly](https://img.shields.io/badge/Assembly-6e4c13?style=for-the-badge&logo=asm&logoColor=white)</a>
+
 
 # Tools :
 <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)</a>
