@@ -19,6 +19,7 @@
 <a href="https://www.php.net/">![PHP](https://img.shields.io/badge/PHP-4f5d95?style=for-the-badge&logo=php&logoColor=white)</a>
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 <a href="https://nasm.us">![Assembly](https://img.shields.io/badge/Assembly-6e4c13?style=for-the-badge&logo=asm&logoColor=white)</a>
+<a href="https://www.haskell.org/">![Haskell](https://img.shields.io/badge/haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)</a>
 
 
 # Tools :
