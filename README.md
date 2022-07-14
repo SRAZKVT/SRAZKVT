@@ -8,7 +8,7 @@
 <div align="center">
   
   <a href="https://github.com/jstrieb/github-stats">![](https://github.com/SRAZKVT/github-stats/blob/master/generated/overview.svg) <br></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRAZKVT&hide=python,latte&langs_count=10,latte&layout=compact"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRAZKVT&hide=latte&langs_count=10&layout=compact&exclude_repo=github-stats"></a>
 </div>
 
 # Languages I use :
