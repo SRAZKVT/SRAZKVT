@@ -14,10 +14,10 @@
 # Languages I use :
 <a href="https://openjdk.java.net/">![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="https://go.dev/">![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)</a>
-
-# Languages I am learning:
 <a href="https://www.php.net/">![PHP](https://img.shields.io/badge/PHP-4f5d95?style=for-the-badge&logo=php&logoColor=white)</a>
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+
+# Languages I am learning:
 <a href="https://nasm.us">![Assembly](https://img.shields.io/badge/Assembly-6e4c13?style=for-the-badge&logo=asm&logoColor=white)</a>
 <a href="https://www.haskell.org/">![Haskell](https://img.shields.io/badge/haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)</a>
 
