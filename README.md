@@ -8,7 +8,7 @@
 <div align="center">
   
   <a href="https://github.com/jstrieb/github-stats">![](https://github.com/SRAZKVT/github-stats/blob/master/generated/overview.svg) <br></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRAZKVT&hide=latte&langs_count=10&layout=compact&exclude_repo=github-stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRAZKVT&hide=latte,makefile&langs_count=10&layout=compact&exclude_repo=github-stats"></a>
 </div>
 
 # Languages I use :
@@ -20,6 +20,7 @@
 # Languages I am learning:
 <a href="https://nasm.us">![Assembly](https://img.shields.io/badge/Assembly-6e4c13?style=for-the-badge&logo=asm&logoColor=white)</a>
 <a href="https://www.haskell.org/">![Haskell](https://img.shields.io/badge/haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)</a>
+<a href="https://fortran-lang.org/">![Fortran](https://img.shields.io/badge/fortran-4d41b1?style=for-the-badge&logo=fortran&logoColor=white)</a>
 
 
 # Tools :
