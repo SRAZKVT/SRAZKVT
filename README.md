@@ -32,5 +32,5 @@
 
 # Others :
 <a href="https://voidlinux.org">![](https://img.shields.io/badge/Void_Linux-295340?style=for-the-badge&logo=linux&logoColor=white)</a>
-<a rel="me" href="https://tech.lgbt/@SRAZKVT">![](https://img.shields.io/badge/@SRAZKVT@tech.lgbt-563ACC?style=for-the-badge&logo=mastodon&logoColor=white)</a>
+<a rel="me" href="https://tech.lgbt/@SRAZKVT">Mastodon</a>
 
