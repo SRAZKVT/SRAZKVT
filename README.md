@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - I'm from France
-- Currently studying CS in IUT Montpellier - Sète
-- Open-source <3
+- Free and open source software <3
 - Pronouns: They/She/Any
 
 <div align="center">
