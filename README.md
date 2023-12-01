@@ -4,6 +4,8 @@
 - Free and open source software <3
 - Pronouns: They/She/Any
 
+I don't post new projects on github, my new projects are over on [codeberg](https://codeberg.org/SRAZKVT).
+
 <div align="center">
   
   <a href="https://github.com/jstrieb/github-stats">![](https://github.com/SRAZKVT/github-stats/blob/master/generated/overview.svg) <br></a>
